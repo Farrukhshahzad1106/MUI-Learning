@@ -1,0 +1,2 @@
+Typography 
+Typography baasically deals with the style of appearence of text in website

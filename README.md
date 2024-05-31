@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+#### To install MUI in our React project
+
+npm install @mui/material @emotion/react @emotion/styled
+
+Here @mui/material is the core material library which provides us with ready-to-use components, and emotion is a library designed to write css styles with javaScript and is the default styling solution witv v5 of Material UI.
+
+On executing the command the libraries will be listed as dependency in package.json
